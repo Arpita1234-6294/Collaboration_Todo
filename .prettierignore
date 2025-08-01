@@ -1,0 +1,34 @@
+# === Node Modules ===
+node_modules
+Backend/node_modules
+Frontend/node_modules
+
+# === Build Output ===
+dist
+build
+Backend/dist
+Frontend/build
+Frontend/dist
+
+# === Environment Files ===
+.env
+.env.*
+
+# === Logs ===
+*.log
+
+# === Coverage Reports ===
+coverage
+.nyc_output
+
+# === Git Files ===
+.git
+.gitignore
+
+# === OS-specific Files ===
+.DS_Store
+Thumbs.db
+
+# === Misc ===
+package-lock.json
+yarn.lock
